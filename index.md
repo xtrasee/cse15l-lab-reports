@@ -1,5 +1,7 @@
 # my _own_ website **:O**
 
+[Lab Report 1](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html)
+
 ## this is great
 
 [more baby yoda, click here](https://www.wired.com/story/baby-yoda-internet/)
