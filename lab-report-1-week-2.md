@@ -4,7 +4,7 @@
 
 ---
 
-- The first step we need to do before logging into a course-specific account is install VScode. [Click here to install VScode](https://code.visualstudio.com)
+- The first step we need to do before logging into a course-specific account is to install VScode. [Click here to install VScode!](https://code.visualstudio.com)
 
 - Once you install and run VScode, your environment should look similar to this:
 
@@ -18,7 +18,7 @@
 
 - We must then look up your source-specific account for CSE15L. [Click Here!](https://sdacs.ucsd.edu/~icc/index.php)
 
-- Once you do your account Lookup, you should be able to find your own course-specific account. It should look something like cs15lwi22zz@ieng6.ucsd.edu but with the zz replaced by your own letters.
+- Once you do your account Lookup, you should be able to find your own course-specific account. It should look something like cs15lwi22zz@ieng6.ucsd.edu but with the zz replaced with your own letters.
 
 - Then type the following into the terminal: ssh cs15lwi22zz@ieng6.ucsd.edu. Next type in yes and it should give you a prompt to enter your password.
 
@@ -32,7 +32,7 @@
 
 ---
 
-- Try running some commands such as. cd, ls, ls -a, mkdir, pwd
+- Try running some commands such as, cd, ls, ls -a, mkdir, pwd.
 - You could try these commands for example,
 
 ![pic of example commands](https://user-images.githubusercontent.com/92359561/149451512-f506ab53-bf95-44ce-a359-d49ac519beeb.png)
@@ -43,7 +43,7 @@
 
 ---
 
-- One way to copy files from your computer to a romote compuuter is by usinig the command scp.
+- One way to copy files from your computer to a romote computer is by using the command scp.
 - We will always run the command on your computer (the client). First create a file WhereAmI.java and put the following content into the file:
 
 ![WhereAmI.java](https://user-images.githubusercontent.com/92359561/149452152-e586036d-781c-43a1-9395-924db2bb146e.png)
@@ -56,9 +56,9 @@
 
 ---
 
-- To avoid the trouble of having to type in your password everytime you log into your ieng6 using your ssh key is to create whats called a ssh-keygen. Run ssh-keygen on your computer and it should look like this:
+- To avoid the trouble of having to type in your password everytime you log into your ieng6 using your ssh key, we can create whats called a ssh-keygen. Run ssh-keygen on your computer and it should look like this:
 - ![ssh-keygen](https://user-images.githubusercontent.com/92359561/149452820-452ded7f-2825-4c33-850e-3ed64f34136b.png)
-- This created two files - one with your private key and one with your public key. Therefore, we now need to cope the public key to the .ssh directory by doing the following steps on the server:
+- This created two files - one with your private key and one with your public key. Therefore, we now need to copy the public key to the .ssh directory by doing the following steps on the server:
 
 ![pub-key](https://user-images.githubusercontent.com/92359561/149453178-b9c20ff0-ecc1-49a7-8bd6-71afd14f1186.png)
 
