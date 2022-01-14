@@ -8,9 +8,9 @@
 
 - The first step we need to do before logging into a course-specific account is install VScode. [Click here to install VScode](https://code.visualstudio.com)
 
-- Once you install VScode, your environment should look like this
+- Once you install and run VScode, your environment should look like this
 
-![pic of vs code environment]()
+![pic of vs code environment](https://user-images.githubusercontent.com/92359561/149450527-f2d3b1ec-84ce-4c0b-9e99-1a44108d5329.png)
 
 ---
 
