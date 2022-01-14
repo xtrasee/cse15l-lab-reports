@@ -70,7 +70,7 @@
 
 - Final step! To make remote running more efficient, you can use semicolons to run multiple commands on the same line.
 
-![efficient](<img width="469" alt="Screen Shot 2022-01-13 at 8 54 00 PM" src="https://user-images.githubusercontent.com/92359561/149453719-108f2002-6e76-472f-ac83-f31668aa0a14.png")
+![efficient](https://user-images.githubusercontent.com/92359561/149453719-108f2002-6e76-472f-ac83-f31668aa0a14.png)
 
 - You could use the up arrow to retrieve the last command that was run.
 
