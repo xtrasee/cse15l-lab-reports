@@ -1,6 +1,6 @@
-##**Lab Report 2**
+**Lab Report 2**
 
-##**Code Change #1**
+**Code Change #1**
 
 [Test #1](https://github.com/xtrasee/markdown-parse-main/blob/main/test1.md)
 
@@ -11,7 +11,7 @@ Symptom:
 The relationship between the bug, the symptom, and the faling inducing input is to really test whether the code can distinguish an image from a link. Clearly, the output when I ran this breaking test is that it continuously runs and runs out of heap space. Therefore, since our output was not empty, we can see through the symptom when we ran our code that there is a bug.
 
 ---
-##**Code Change #2**
+**Code Change #2**
 
 [Test #2](https://github.com/xtrasee/markdown-parse-main/blob/main/test2.md)
 
@@ -23,7 +23,7 @@ The test file caused an out of memory error which was a symptom that pointed out
 
 ---
 
-##**Code Change #3**
+**Code Change #3**
 
 [Test #3](https://github.com/xtrasee/markdown-parse-main/blob/main/test3.md)
 
