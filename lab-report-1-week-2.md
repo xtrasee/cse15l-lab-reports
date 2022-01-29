@@ -33,7 +33,7 @@
 ---
 
 - Try running some commands such as, cd, ls, ls -a, mkdir, pwd.
-- You could try these commands for example,
+- You could try this command for example,
 
 ![pic of example commands](https://user-images.githubusercontent.com/92359561/149451512-f506ab53-bf95-44ce-a359-d49ac519beeb.png)
 
