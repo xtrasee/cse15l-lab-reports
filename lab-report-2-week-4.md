@@ -27,8 +27,8 @@ The test file caused an out of memory error which was a symptom that pointed out
 
 [Test #3](https://github.com/xtrasee/markdown-parse-main/blob/main/test3.md)
 
-- Code change: I attempted to fix the error but am unsure if I really fixed it
-![](https://user-images.githubusercontent.com/92359561/151645069-fcd89450-f3cd-4ff6-af12-986c52b88718)
+- Code change: I attempted to fix the error but am unsure if I really fixed it 
+![](https://user-images.githubusercontent.com/92359561/151647847-b5d46fb1-4146-4a97-9080-227c8a212744.png)
 
 Symptom: 
 ![](https://user-images.githubusercontent.com/92359561/151647355-4ead8205-0e55-4210-92ff-a03e0a4f090c.png)
