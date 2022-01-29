@@ -35,7 +35,7 @@
 - Try running some commands such as, cd, ls, ls -a, mkdir, pwd.
 - You could try these commands for example,
 
-![pic of example commands](https://user-images.githubusercontent.com/92359561/151492560-6af7784b-fd94-4f0f-b98f-2d672b283183.png)
+![pic of example commands](https://user-images.githubusercontent.com/92359561/149451512-f506ab53-bf95-44ce-a359-d49ac519beeb.png)
 
 ---
 
@@ -68,11 +68,11 @@
 
 ---
 
-- Final step! To make remote running more efficient, you can use semicolons to run multiple commands on the same line and save multiple "enter" keystrokes.
+- Final step! To make remote ßrunning more efficient, you can use semicolons to run multiple commands on the same line and save multiple "enter" keystrokes.
 
 ![efficient](https://user-images.githubusercontent.com/92359561/149453719-108f2002-6e76-472f-ac83-f31668aa0a14.png)
 
 - In the example above, I was able to save two "enter" keystrokes.
-- You could use the up arrow to retrieve the last command that was run.
+- You could use the up arrow to retrieve the last command that was runß.
 
 ---
