@@ -18,7 +18,7 @@
 
 - We must then look up your source-specific account for CSE15L. [Click Here!](https://sdacs.ucsd.edu/~icc/index.php)
 
-- Once you do your account Lookup, you should be able to find your own course-specific account. It should look something like cs15lwi22zz@ieng6.ucsd.edu but with the zz replaced with your own letters.
+- Once you do your account Lookup, you should be able to find your own course-specific account. It should look something like ```cs15lwi22zz@ieng6.ucsd.edu``` but with the zz replaced with your own letters.
 
 - Then type the following into the terminal: ```ssh cs15lwi22zz@ieng6.ucsd.edu```. Next type in yes and it should give you a prompt to enter your password.
 
