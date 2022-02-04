@@ -68,7 +68,7 @@
 
 ---
 
-- Final step! To make remote ßrunning more efficient, you can use semicolons to run multiple commands on the same line and save multiple "enter" keystrokes.
+- Final step! To make remote running more efficient, you can use semicolons to run multiple commands on the same line and save multiple "enter" keystrokes.
 
 ![efficient](https://user-images.githubusercontent.com/92359561/149453719-108f2002-6e76-472f-ac83-f31668aa0a14.png)
 
