@@ -28,6 +28,7 @@ For the second test, I believe it accounted for tests 494 to 498. From tests 494
 ![example](https://user-images.githubusercontent.com/92359561/157799798-62dcc43b-5b6b-4b2c-9c1c-9bb31e661cdc.png)
 
 So instead of these outputs:
+
 ![test2](https://user-images.githubusercontent.com/92359561/157783650-a61c87eb-358f-4b4d-a3dd-1dfd32150e97.png)
 
 It should be
